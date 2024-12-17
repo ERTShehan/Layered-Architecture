@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Constractor Injection/Constractor Injection.iml" filepath="$PROJECT_DIR$/Constractor Injection/Constractor Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface True Injection/Interface True Injection.iml" filepath="$PROJECT_DIR$/Interface True Injection/Interface True Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Layered  Architecture.iml" filepath="$PROJECT_DIR$/Layered  Architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loose Coupling/Loose Coupling.iml" filepath="$PROJECT_DIR$/Loose Coupling/Loose Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Property Injection/Property Injection.iml" filepath="$PROJECT_DIR$/Property Injection/Property Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Setter Method True Injection/Setter Method True Injection.iml" filepath="$PROJECT_DIR$/Setter Method True Injection/Setter Method True Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tigth Coupling/Tigth Coupling.iml" filepath="$PROJECT_DIR$/Tigth Coupling/Tigth Coupling.iml" />
+    </modules>
+  </component>
+</project>
